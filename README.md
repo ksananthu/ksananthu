@@ -14,8 +14,10 @@
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ksananthu)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksananthu.dev@gmail.com)  
+💼 **LinkedIn**: [Visit my profile](linkedin.com/in/ksananthu)  
+📧 **Email**: [Send me an email](mailto:ksananthu.dev@gmail.com)  
+
+Let's collaborate and build something amazing! 🚀  
 
 ---
 
