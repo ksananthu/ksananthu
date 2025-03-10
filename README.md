@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ananthu
 - 👀 I’m interested in Python, AI, Machine learning and NLP
-- 🌱 I’m currently learning Machine learning and NLP
 
 
 <!---
