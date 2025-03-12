@@ -14,7 +14,7 @@
 
 ### 📫 Let's Connect!
 
-💼 **LinkedIn**: [Visit my profile](linkedin.com/in/ksananthu)  
+💼 **LinkedIn**: [Visit my profile](www.linkedin.com/in/ksananthu)  
 📧 **Email**: [Send me an email](mailto:ksananthu.dev@gmail.com)  
 
 Let's collaborate and build something amazing! 🚀  
